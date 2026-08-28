@@ -1,0 +1,7 @@
+Fake.csv
+True.csv
+news_dataset.csv
+__pycache__/
+venv/
+*.pkl
+model/
